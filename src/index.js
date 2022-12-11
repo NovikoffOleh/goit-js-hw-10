@@ -14,7 +14,7 @@ function onInputCountry() {
     refs.countryInfo.innerHTML = '';
     refs.countryList.innerHTML = '';
     return;
-  }
+}
 
   fetchCountries(countryName)
     .then(countrys => {

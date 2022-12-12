@@ -40,6 +40,13 @@ p {
   padding: 0;
 }
 
+.h2{
+  color: blue;
+}
+
+.p{
+  color: red;
+}
 
 .country-info__wrapper {
   display: flex;
